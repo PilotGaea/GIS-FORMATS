@@ -1,6 +1,5 @@
 # 高程格式
-1. **HDR**+GRD : 中華民國內政部研發的高程，用美國國家標準資訊 (ASCII)碼記
-錄，製成數值地形模型檔(.grd)，最後賦予檔頭資料(*.hdr)。
+1. **HDR**+GRD : 中華民國內政部研發的高程，用美國國家標準資訊 (ASCII)碼記錄，製成數值地形模型檔(.grd)，最後賦予檔頭資料(*.hdr)。
   + 資料集
     + [新版臺灣本島20公尺網格DTM資料](https://data.moi.gov.tw/MoiOD/Data/DataDetail.aspx?oid=8600CF99-A6EF-4335-947D-D26C9992EDD1)
   + 支援軟體
