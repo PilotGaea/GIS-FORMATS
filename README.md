@@ -4,7 +4,7 @@
     + 資料集
       + [新版臺灣本島20公尺網格DTM資料](https://data.moi.gov.tw/MoiOD/Data/DataDetail.aspx?oid=8600CF99-A6EF-4335-947D-D26C9992EDD1)
     + 支援軟體
-      + PilotGaea TransferData 開啟 *.GRD
+      + [PilotGaea](https://www.pilotgaea.com.tw/) TransferData 開啟 *.GRD
     + Remarks
       + 台灣說的**HDR**大致上都是此格式
       + 舊版HDR28行，新版HDR26行，格式如附檔     
